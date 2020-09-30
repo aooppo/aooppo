@@ -10,8 +10,17 @@ Now I'm working at Trinite Inc as a senior java engineer.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aooppo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ![TJ's github stats](https://github-readme-stats.vercel.app/api?username=aooppo&show_icons=false)
+
+<a href="https://github.com/aooppo/graphql">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aooppo&repo=graphql" />
+</a>
+<a href="https://github.com/aooppo/kms">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aooppo&repo=kms" />
+</a>
+<a href="https://github.com/aooppo/kms">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aooppo&repo=publisher" />
+</a>
+<a href="https://github.com/aooppo/kms">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aooppo&repo=ts-axios" />
+</a>
