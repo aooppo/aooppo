@@ -25,5 +25,5 @@ Now I'm working at Trinite Inc as a senior java engineer.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aooppo&repo=ts-axios" />
 </a>
 
-**stats:**
+
 ![TJ's github stats](https://github-readme-stats.vercel.app/api?username=aooppo&show_icons=false)
