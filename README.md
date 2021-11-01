@@ -18,6 +18,6 @@
 
 ### Github Stats
 
-<a href="https://github.com/aooppo"><img src="https://github-readme-stats.vercel.app/api?username=aooppo&show_icons=false&layout=compact&hide_title=true&theme=default" style="width: 58%; max-width: 58%; min-width: 58%;"><img src="https://github-stats.hclonely.com/api/top-langs/?username=aooppo&layout=compact&count_private=true&theme=default" style="width: 40%; max-width: 40%; min-width: 40%;"></a>
+<a href="https://github.com/aooppo"><img src="https://github-readme-stats.vercel.app/api?username=aooppo&show_icons=false&layout=compact&hide_title=true&theme=default" style="width: 58%; max-width: 58%; min-width: 58%;"></a>
 
 
